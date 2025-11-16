@@ -1,143 +1,96 @@
 # personal-HTML-portfolio-website
-Divyansh Raj - Portfolio Website
+# 🌐 Personal Portfolio  
+### **Divyansh Raj | Web Developer & CSE Student (CGC University)**
 
-📋 Project Overview
-
-A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript featuring dark mode functionality and smooth animations.
-
-🚀 Live Demo
-
-View Live Website
-
-
-
-```
-portfolio-website/
-│
-├── index.html
-├── photo/
-│   ├── divyansh.png
-│   ├── divyansh2.png
-│   └── cgc_university.png
-└── README.md
-```
-
-🛠️ Technologies Used
-
-· HTML5 - Structure and semantic markup
-· CSS3 - Styling with animations and gradients
-· JavaScript - Interactive functionality
-· Font Awesome - Icons
-· Google Fonts - Typography (Poppins)
-
-✨ Features
-
-· ✅ Responsive Design - Works on all devices
-· ✅ Dark/Light Mode Toggle - User preference saving
-· ✅ Smooth Animations - CSS keyframe animations
-· ✅ Interactive Navigation - Smooth scrolling and active states
-· ✅ Modern UI/UX - Gradient backgrounds and hover effects
-· ✅ Back to Top Button - Enhanced user experience
-· ✅ Mobile-Friendly Menu - Hamburger menu for mobile devices
-
-🎨 Design Elements
-
-· Color Scheme: Dark blue gradients with cyan accents (#00e0ff)
-· Typography: Poppins font family
-· Animations: Floating effects, gradient movements, fade-in transitions
-· Layout: Flexbox and CSS Grid for responsive design
-
-📄 Sections
-
-1. Home - Hero section with profile image and introduction
-2. About Me - Personal information and interests
-3. My University - CGC University details and facilities
-4. Skills - Technical skills with interactive cards
-5. Projects - Showcase of personal projects
-6. Contact - Contact information and social links
-
-🏫 University Information
-
-CGC University, Mohali
-
-· Established in 2001
-· NAAC Accredited
-· Strong Placement Records
-· Courses: B.Tech CSE, MBA, MCA, Ph.D Programs
-
-Facilities
-
-· Library with 50,000+ books
-· Smart Classrooms & Labs
-· Hostel & Canteen
-· Sports Complex & Gym
-
-💻 Skills Showcased
-
-· HTML5 - Semantic markup and structure
-· CSS3 - Advanced styling and animations
-· C Language - Programming fundamentals
-· Responsive Design - Mobile-first approach
-
-📧 Contact Information
-
-· Email: [lakshmisah22@gmail.com]
-· Phone: +91 75491 43722
-· Instagram: [https://instagram.com/divyansh_raj31]
-· LinkedIn: [https://linkedin.com/in/divyansh-raj-553373379]
-· College: [https://www.cgcuniversity.in]
-
-🎯 Project Details
-
-· Project Type: Personal Portfolio Website
-· Status: Live and deployed on GitHub Pages
-· First Project: Personal HTML webpage site
-· Technologies: HTML, CSS, JavaScript
-
-🔧 Installation & Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/ironlegend01/divyanshraj.github.io.git
-```
-
-1. Open index.html in your web browser
-2. No build process required - pure HTML, CSS, and JavaScript
-
-🌐 Browser Compatibility
-
-· Chrome (Recommended)
-· Firefox
-· Safari
-· Edge
-
-📱 Responsive Breakpoints
-
-· Desktop: 1200px and above
-· Tablet: 768px - 1199px
-· Mobile: 767px and below
-
-🎨 Customization
-
-To customize this portfolio:
-
-1. Update personal information in the HTML
-2. Replace images in the photo/ folder
-3. Modify colors in the CSS variables
-4. Add new projects to the projects section
-
-📞 Support
-
-For any questions or suggestions, feel free to contact:
-
-· Email: lakshmisah22@gmail.com
-· GitHub: ironlegend01
-
-📄 License
-
-This project is open source and available under the MIT License.
+Welcome to my personal portfolio repository!  
+This project contains the source code of my website, including sections like my bio, university info, skills, and contact details.
 
 ---
 
-Made with ❤️ & Code by Divyansh Raj
+## 🚀 Features
+
+- Fully responsive design (Mobile + Tablet + Laptop)
+- Clean UI with smooth animations
+- About Me section  
+- University Information section  
+- Skillset section  
+- Profile Image + University Image support  
+- Working Navigation Links  
+- Modern CSS styling  
+
+---
+
+## 🧑‍💻 About Me
+
+Hi, I’m **Divyansh Raj**.  
+I am a **CSE student at Chandigarh Group of Colleges (CGC University)**.  
+This is my personal website where I share my details, skills, and portfolio.
+
+---
+
+## 🏫 About My University
+
+- **CGC University**
+- Located in Punjab, India  
+- Known for excellent placements  
+- Modern campus with all facilities
+
+---
+
+## 🛠️ Tech Stack Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- Responsive Design (Flexbox / Grid)
+- Basic animations (CSS + JS)
+
+---
+
+## 📸 Images Used
+
+- `myphoto.jpg` → Your profile photo  
+- `college.jpg` → CGC University photo  
+
+> **Note:** Images must be inside the `images/` folder or correct relative path.
+
+---
+
+## 📂 Folder Structure
+
+/project-folder
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── /images
+├── myphoto.jpg
+└── college.jpg
+
+---
+
+## 🔗 Live Demo  
+(Update after uploading to GitHub Pages)
+
+
+---
+
+## 📬 Contact Me
+
+- **Email:** your-email@example.com  
+- **Instagram:** your-username  
+- **GitHub:** github.com/yourusername  
+
+---
+
+## 📄 License
+
+This project is free to use. Modify it as you like.
+
+---
+
+### ⭐ If you like this project, give it a star on GitHub!
+
+Made with ❤️ by Divyansh Raj
+
