@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ironlegend01.github.io/personal-HTML-portfolio-website/sitemap.xml
